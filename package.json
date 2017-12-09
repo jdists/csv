@@ -1,6 +1,6 @@
 {
   "name": "@jdists/csv",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "csv as jdists processor",
   "main": "lib/index",
   "typings": "lib/index.d.ts",
