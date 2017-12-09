@@ -32,7 +32,6 @@
   },
   "homepage": "https://github.com/jdists/csv#readme",
   "dependencies": {
-    "csv": "^2.0.0",
     "csv-parse": "^2.0.0",
     "jdists-util": "^0.1.2",
     "js-yaml": "^3.10.0"
